@@ -8,8 +8,8 @@
 - Разнообразные боевые приемы и способности Панда Короля.
 - Захватывающий сюжет с неожиданными поворотами.
 - Впечатляющая графика и атмосферный звук.
-[!NOTE]
-Useful information that users should know, even when skimming content.
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
 
 
 
